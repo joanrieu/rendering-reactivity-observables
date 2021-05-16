@@ -1,0 +1,7 @@
+{
+  "revealjs.highlightTheme": "Monokai",
+  "revealjs.slideNumber": true,
+  "revealjs.transition": "fade",
+  "revealjs.transitionSpeed": "fast",
+  "revealjs.controls": false
+}
